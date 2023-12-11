@@ -1,3 +1,3 @@
 # Blood Oxygen Saturation Sleep Study
 
-Having struggled with quality sleep for the past few years, and having trouble getting definitive answers from single night tests prescribed by the health system, I am attempting to generate data over a long enough time period to look at trends. I am using a pulse oximiter to measure my blood oxygen saturation during sleep I hope to keep this up long enough to establish a baseline which can be used to compare data trends if/when a solution may be implemented.
+Having struggled with quality sleep for the past few years, and having trouble getting definitive answers from single night tests prescribed by the health system, I am attempting to generate my own data over a long enough time period to look at trends. I am using a pulse oximiter to measure my blood oxygen saturation during sleep. I hope to keep this up long enough to establish a baseline which can be used to compare data trends if/when a solution may be implemented.
